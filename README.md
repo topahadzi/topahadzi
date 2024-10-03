@@ -4,6 +4,8 @@ I'm a **DevOps Engineer** with experience in automating and streamlining softwar
 
 With a passion for optimizing workflows and enhancing system reliability, I focus on delivering robust solutions that help businesses scale and improve their development practices
 
+![](https://komarev.com/ghpvc/?username=topahadzi)
+
 ### 🌟 Areas of Expertise
 - Cloud Infrastructure 
 - Containerization & Orchestration 
