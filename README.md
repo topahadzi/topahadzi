@@ -18,7 +18,10 @@ With a passion for optimizing workflows and enhancing system reliability, I focu
 
 ### 📖 Latest Articles
 I also enjoy sharing my knowledge and insights on various platforms. Check out my latest posts on Medium:
-- [Medium Profile](https://medium.com/@topahadzi)
+#### Latest Blog Posts 📝
+- [Exploration | Mounting Container Images As Volumes in kubernetes 1.31](https://medium.com/@topahadzi/exploration-mounting-container-images-as-volumes-in-kubernetes-1-31-2745de2c0154)
+▶ [...more Blogs here](https://medium.com/@topahadzi)
+
 
 ### 🤝 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/topahadzi)
